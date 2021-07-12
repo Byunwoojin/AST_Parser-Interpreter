@@ -1,6 +1,6 @@
 # AST_Parser-Interpreter
 
-Language S에 대한 Prser, Interpreter
+Language S에 대한 Parser, Interpreter
 
 프로그램의 AST를 순회하면서 수식의 값을 계산하고 문장의 의미에 따라 각 문장에 대한 해석을 수행함.
 
